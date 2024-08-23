@@ -110,12 +110,6 @@ turtle.done()
 
 
 
-#baazi hadse addad: too Video ostad toozih dadan
-
-
-
-#jalaseye haftom>
-#mashin hesabi ke 
 from tkinter import * 
 root=Tk()
 
@@ -123,7 +117,7 @@ root=Tk()
 
 
 
-mainloop()           #berim baraye ye file dg
+mainloop()
 
 
 
